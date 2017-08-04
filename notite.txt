@@ -3,3 +3,11 @@ git reset  -  revert la toate fisirele mofificate
 
 git clean -n - notificare care fisiere o sa fie sterse 
 git clean -f - sterge fisierele noi create 
+
+rename 
+git branch -m numele_vechi numele_nou
+
+delete 
+
+local - git branch -d nume_branch
+remote - git push -d nume_branch 
