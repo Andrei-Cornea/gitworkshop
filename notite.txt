@@ -1,0 +1,5 @@
+git checkout . face revert la modificari dar nu sterge fisierele noi create
+git reset  -  revert la toate fisirele mofificate
+
+git clean -n - notificare care fisiere o sa fie sterse 
+git clean -f - sterge fisierele noi create 
